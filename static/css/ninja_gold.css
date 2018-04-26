@@ -1,0 +1,72 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    height:500px;
+    width: 1000px;
+    margin: 20px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+.cave{
+    height: 150px;
+    width: 220px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+.house {
+    height: 150px;
+    width: 220px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.farm{
+    height: 150px;
+    width: 220px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+.casino {
+    height: 150px;
+    width: 220px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+.button {
+    width: 100px;
+    height: 25px;
+    border-radius: 2px;
+    margin-top: 50px;
+}
+p{
+    margin: 5px;
+}
+
+.activities {
+    width: 987px;
+    height: 200px;
+    margin: 10px 0px 0px;
+    border: 1px solid black;
+}
+ h4 {
+     margin: 20px 0px 0px;
+ }
+
+a {
+    margin-top: 50px;
+}
